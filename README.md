@@ -196,21 +196,11 @@ Through this project, I learned:
 
 ---
 
-# 🔮 Future Improvements
-
-- Hyperparameter Tuning
-- Cross Validation
-- Multiple Model Comparison
-- Streamlit Deployment
-- Interactive Prediction App
-
----
 
 # 👩‍💻 Author
 
 **Aleesha Nadeem**
 
-BSCS Student | Aspiring Data Scientist & Machine Learning Engineer
 
 ---
 
